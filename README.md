@@ -1,8 +1,7 @@
 # 회계감사 사례문제 풀이 AI 어시스턴트 (Audit Case Solver AI Assistant)
+공인회계사 2차 시험의 회계감사 사례형 문제를 입력하면, RAG(Retrieval-Augmented Generation) 아키텍처 기반의 LLM이 벡터 검색을 통해 관련 기준서 내용을 로드하고, 정답 및 판단 근거를 생성해 출력하는 Streamlit 기반의 질의응답 시스템입니다.
 
-공인회계사 2차 시험의 회계감사 사례형 문제를 입력하면,  
-RAG(Retrieval-Augmented Generation) 아키텍처 기반의 LLM이 벡터 검색을 통해 관련 기준서 내용을 로드하고,  
-정답 및 판단 근거를 생성해 출력하는 Streamlit 기반의 질의응답 시스템입니다.
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-ff4b4b?style=for-the-badge&logo=streamlit)](https://audit-case-solver.streamlit.app/)
 
 ---
 
