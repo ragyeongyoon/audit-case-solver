@@ -84,7 +84,7 @@ RAG(Retrieval-Augmented Generation) 아키텍처 기반의 LLM이 벡터 검색�
    - `RetrievalQA` 체인에 prompt template 주입
 
 2. **프롬프트 템플릿**  
-   - '### 정답:', '### 판단 근거:' 양식으로 답변 생성 강제  
+   - '정답:', '판단 근거:' 양식으로 답변 생성 강제  
    - 기준 문구를 그대로 인용하며, 절차 적정성·위반 여부 등을 논리적으로 판단
 
 3. **Streamlit UI 구성**  
