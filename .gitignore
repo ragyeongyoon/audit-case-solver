@@ -1,2 +1,5 @@
 01_source_pdfs/
 *.pdf
+.env
+.streamlit/secrets.toml
+.toml
